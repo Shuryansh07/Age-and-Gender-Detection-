@@ -18,7 +18,7 @@ This Python-based application detects a person's **age range** and **gender** fr
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/Age-Gender-Detection.git
+git clone https://github.com/Shuryansh07/Age-Gender-Detection-.git
 cd Age-Gender-Detection
 ```
 
