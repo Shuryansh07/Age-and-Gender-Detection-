@@ -153,7 +153,7 @@ This project uses pre-trained **Caffe models** trained on the **Adience dataset*
 ## ⚡ Future Improvements  
 - 🔹 Improve model accuracy with a custom-trained dataset  
 - 🔹 Deploy as a **web app** using Flask/Streamlit  
-- 🔹 Optimize performance for **faster inference**  
+- 🔹 Optimize performance for **faster inference** 
 
 ---
 
